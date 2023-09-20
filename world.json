@@ -1,0 +1,19 @@
+{
+  "title": "怪物賃貸（作者：アルバガルド）",
+  "description": "<p>“塔の街” シャーンの淀みが集まる<br />デューラ下層。<br />そこに一軒のアパートが建っている。<br />身分も種族も犯罪歴も問われない。<br />あらゆるはぐれ者たちが入居する。<br />誰が呼んだか “怪物賃貸”。<br />そんな一癖も二癖もある入居者から、<br />家賃を取り立てる。<br />だがここは犯罪と陰謀が渦巻く<br />シャーンのどん底……<br />この仕事、平穏無事にすむはずがない！<br />さあ、エベロンで諸君を待っている！</p>",
+  "version": "1.0.0",
+  "system": "dnd5e",
+  "background": "https://assets.forge-vtt.com/626bc3f7ce0edd4087f0cbda/kaibutsu_chintai/EuMfUpwUUAY_hGh.png",
+  "coreVersion": "11.306",
+  "nextSession": "2022-06-04T12:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.2.2",
+  "id": "kaibutsu",
+  "compatibility": {
+    "verified": "11.306",
+    "minimum": "11"
+  },
+  "lastPlayed": "Sun Sep 17 2023 22:16:16 GMT+0900 (日本標準時)",
+  "playtime": 914
+}
