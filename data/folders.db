@@ -1,0 +1,7 @@
+{"_id":"OMtpnhwzkWea5Fv1","name":"怪物賃貸","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"完テキ卓PC","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{"textColour":""},"_id":"SUBCoKDikILSnsHh"}
+{"_id":"WFbS84HcPcweLlSx","name":"old_GM","type":"Actor","parent":"fkDbXEMToQ8WhJRZ","sorting":"a","sort":100000,"color":"","flags":{"textColour":""}}
+{"_id":"a21efuT7yZ5joBKm","name":"NPC","type":"Actor","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"GM用","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"cc7314lngo72NmFM"}
+{"_id":"fkDbXEMToQ8WhJRZ","name":"敵","type":"Actor","parent":null,"sorting":"a","sort":250000,"color":null,"flags":{}}
+{"_id":"iZ7ju6OBb6RV9Qsw","name":"オンセ工房例会卓PC","type":"Actor","parent":null,"sorting":"a","sort":200000,"color":null,"flags":{}}
