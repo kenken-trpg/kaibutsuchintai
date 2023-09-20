@@ -7,6 +7,10 @@
   "system": "dnd5e",
   "background": "https://assets.forge-vtt.com/626bc3f7ce0edd4087f0cbda/kaibutsu_chintai/EuMfUpwUUAY_hGh.png",
   "coreVersion": "11.306",
+  "version": "This is auto replaced",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.302"
   "nextSession": "2022-06-04T12:00:00.000Z",
   "resetKeys": false,
   "safeMode": false,
