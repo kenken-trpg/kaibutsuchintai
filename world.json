@@ -17,8 +17,17 @@
   "systemVersion": "2.2.2",
   "id": "kaibutsu",
   "compatibility": {
-    "verified": "11.306",
     "minimum": "11"
+    "verified": "11.306",
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "dnd5eja",
+        "type": "module",
+        "compatibility": {}
+      },    
+   ]
   },
   "url": "This is auto replaced",
   "download": "This is auto replaced",
