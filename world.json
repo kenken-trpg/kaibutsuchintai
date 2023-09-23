@@ -23,7 +23,7 @@
           "id": "dnd5eja",
           "type": "module",
           "compatibility":"2.2.2" 
-        },    
+        }    
     },
     "url": "https://github.com/kenken-trpg/kaibutsuchintai",
     "download": "https://github.com/kenken-trpg/kaibutsuchintai/archive/main.zip",
