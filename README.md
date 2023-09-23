@@ -12,7 +12,7 @@ world for Foundry VTT
 
 以下のリンクをワールドとしてインストールしてください。
 
-    リンク： [https://raw.githubusercontent.com/kenken-trpg/kaibutsuchintai/master/world.json](https://raw.githubusercontent.com/kenken-trpg/kaibutsuchintai/master/world.json)
+リンク： [https://raw.githubusercontent.com/kenken-trpg/kaibutsuchintai/master/world.json](https://raw.githubusercontent.com/kenken-trpg/kaibutsuchintai/master/world.json)
 
 トレーラー
 
