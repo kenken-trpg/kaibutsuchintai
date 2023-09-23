@@ -17,10 +17,6 @@
     "safeMode": false,
     "systemVersion": "2.2.2",
     "id": "kaibutsu",
-    "compatibility": {
-      "verified": "11.306",
-      "minimum": "11"
-    },
     "relationships": {
       "requires":
         {
