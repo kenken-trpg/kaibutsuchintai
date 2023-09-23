@@ -25,7 +25,7 @@
           "compatibility":"2.2.2" 
         }    
     },
-    "url":"https://github.com/kenken-trpg/kaibutsuchintai",
-    "download":"https://github.com/kenken-trpg/kaibutsuchintai/archive/main.zip",
-    "manifest":"https://raw.githubusercontent.com/kenken-trpg/kaibutsuchintai/main/world.json"
+    "url": "https://github.com/kenken-trpg/kaibutsuchintai",
+    "download": "https://github.com/kenken-trpg/kaibutsuchintai/archive/main.zip",
+    "manifest": "https://raw.githubusercontent.com/kenken-trpg/kaibutsuchintai/main/world.json"
 }
