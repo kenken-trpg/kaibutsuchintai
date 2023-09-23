@@ -16,19 +16,14 @@
     "safeMode": false,
     "systemVersion": "2.2.2",
     "id": "kaibutsu",
-    "compatibility": {
-      "minimum": "11"
-      "verified": "11.306",
-    },
     "relationships": {
       "requires": [
         {
           "id": "dnd5eja",
           "type": "module",
-          "compatibility": {}
-        },    
+        }    
      ]
-    },
+    }
     "url": "https://github.com/kenken-trpg/kaibutsuchintai",
     "download": "https://github.com/kenken-trpg/kaibutsuchintai/archive/main.zip",
     "manifest": "https://raw.githubusercontent.com/kenken-trpg/kaibutsuchintai/main/world.json",
