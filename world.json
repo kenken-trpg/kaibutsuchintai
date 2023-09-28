@@ -19,7 +19,7 @@
     },
     "description": "<p>“塔の街” シャーンの淀みが集まる<br />デューラ下層。<br />そこに一軒のアパートが建っている。<br />身分も種族も犯罪歴も問われない。<br />あらゆるはぐれ者たちが入居する。<br />誰が呼んだか “怪物賃貸”。<br />そんな一癖も二癖もある入居者から、<br />家賃を取り立てる。<br />だがここは犯罪と陰謀が渦巻く<br />シャーンのどん底……<br />この仕事、平穏無事にすむはずがない！<br />さあ、エベロンで諸君を待っている！</p>",
     "systemVersion": "2.2.2",
-    url: "https://github.com/kenken-trpg/kaibutsuchintai",
-    download: "https://github.com/kenken-trpg/kaibutsuchintai/archive/main.zip",
-    manifest: "https://raw.githubusercontent.com/kenken-trpg/kaibutsuchintai/main/world.json"
+    "url": "https://github.com/kenken-trpg/kaibutsuchintai",
+    "download": "https://github.com/kenken-trpg/kaibutsuchintai/archive/main.zip",
+    "manifest": "https://raw.githubusercontent.com/kenken-trpg/kaibutsuchintai/main/world.json"
 }
